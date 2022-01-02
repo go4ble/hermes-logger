@@ -64,3 +64,9 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# https://github.com/njh/ruby-mqtt
+gem "mqtt", "~> 0.5.0"
+
+# https://docs.mongodb.com/mongoid
+gem "mongoid", "~> 1.0"
